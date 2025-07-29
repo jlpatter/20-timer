@@ -68,4 +68,5 @@ func _on_play_btn_pressed() -> void:
 
 func _on_stop_btn_pressed() -> void:
 	is_running = false
+	$CanvasLayer/PlayBtn.text = "Play"
 	set_to_working()
