@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b6e1vk0fsjg33"
+path="res://.godot/imported/Alarm Cropped.mp3-254bb4164b8a637aa35579b79bb4c398.mp3str"
+
+[deps]
+
+source_file="res://Alarm Cropped.mp3"
+dest_files=["res://.godot/imported/Alarm Cropped.mp3-254bb4164b8a637aa35579b79bb4c398.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
